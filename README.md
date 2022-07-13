@@ -18,7 +18,7 @@
 ### Запуск проекта в dev-режиме
 - Клонируйте репозиторий и перейдите в папку проекта:
 ```
-git clone https://github.com/marusya-zh/api_yamdb.git
+git clone https://github.com/niktere12321/api_yamdb.git
 ```
 ```
 cd api_yamdb
